@@ -1,4 +1,3 @@
-import { useState } from "react"
 import { useAppStore } from "../stores/useAppStore"
 
 export default function GenerateAI() {
